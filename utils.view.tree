@@ -1,0 +1,9 @@
+$koplenov_utils $mol_page
+	plugins /
+	title \Тут соберутcя всякие хелперы по работе с текстом
+	body /
+		<= Counter_block $mol_labeler
+			title <= counter_block_title \
+			content /
+				<= Input_text_in_counter_block $mol_textarea
+
