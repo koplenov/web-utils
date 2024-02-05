@@ -6,4 +6,5 @@ $koplenov_utils $mol_page
 			title <= counter_block_title \
 			content /
 				<= Input_text_in_counter_block $mol_textarea
+					sidebar_showed true
 
