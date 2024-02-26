@@ -165,10 +165,10 @@
     "$mol_charset",
     "$mol_charset_encoding",
     "$mol_charset_encode",
+    "$mol_action",
     "$mol_compare_array",
     "$mol_string",
     "$mol_hotkey",
-    "$mol_action",
     "$mol_labeler"
   ],
   "dependencies": {
